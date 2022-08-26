@@ -1,6 +1,6 @@
 ### Olá, meu nome é Marcelo Vieira!
 
-- 💻 Estudande de Desenvolvimento Web Front-end
+- 💻 Estudande de Desenvolvimento Web
 - 📰 Técnico em Redes de Computadores
 
 <div align="left">
