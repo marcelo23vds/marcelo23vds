@@ -1,6 +1,6 @@
 ### Olá, meu nome é Marcelo Vieira!
 
-- 💻 Desenvolvedor Web Front-end
+- 💻 Me tornando um Desenvolvedor Web Full Stack!
 - 📰 Técnico em Redes de Computadores
 
 <div align="left">
