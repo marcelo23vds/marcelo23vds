@@ -1,6 +1,6 @@
 ### Hey, I'm Marcelo Vieira!
 
-- 💻 Web Developer
+- 💻 Web Developer Fullstack
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo23vds&layout=compact&langs_count=7&theme=midnight-purple"/>
