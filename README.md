@@ -1,6 +1,6 @@
-### Hey, I'm Marcelo Vieira!
+### Olá, me chamo Marcelo Vieira!
 
-- 💻 Front-End Developer
+- 💻 Desenvolvedor Web
   
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
