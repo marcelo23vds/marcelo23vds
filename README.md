@@ -4,7 +4,7 @@ Marcelo Vieira - Desenvolvedor Web!
   <img align="center" height="90" width"120" src="https://cdn.discordapp.com/attachments/979777186254958625/1066530043364392970/amostra-projetocopa.PNG">
   <img align="center" height="90" width"120" src="https://cdn.discordapp.com/attachments/979777186254958625/1066530042630385764/amostra-cyberpunk.PNG">
   <img align="center" height="90" width"120" src="https://cdn.discordapp.com/attachments/979777186254958625/1066530043037225062/amostra-nike.PNG">
-</div>
+</div><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
