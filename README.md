@@ -1,7 +1,10 @@
 Marcelo Vieira - Desenvolvedor Web!
 
 <div><br>
-  <img href="https://github.com/marcelo23vds?tab=repositories" target="_blank" align="center" height="120" width"160" src="https://cdn.discordapp.com/attachments/979777186254958625/1066530043364392970/amostra-projetocopa.PNG">
+  <img align="center" height="120" width"160" src="https://cdn.discordapp.com/attachments/979777186254958625/1066530043364392970/amostra-projetocopa.PNG">
+  <img align="center" height="120" width"160" src="https://cdn.discordapp.com/attachments/979777186254958625/1066530042630385764/amostra-cyberpunk.PNG">
+  <img align="center" height="120" width"160" src="https://cdn.discordapp.com/attachments/979777186254958625/1066530043037225062/amostra-nike.PNG">
+  <img align="center" height="120" width"160" src="https://cdn.discordapp.com/attachments/979777186254958625/1066530043779616808/WhatsApp-Video-2023-01-21-at-22.22.18.gif">
 </div>
 
 <div style="display: inline_block"><br>
