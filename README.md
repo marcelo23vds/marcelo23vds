@@ -3,9 +3,9 @@ Marcelo Vieira - Desenvolvedor Web!
 <div><br>
   <a href="https://github.com/marcelo23vds?tab=repositories"><img align="center" height="90" width"120" src="https://cdn.discordapp.com/attachments/979777186254958625/1066530043037225062/amostra-nike.PNG"></a>
   <a href="https://github.com/marcelo23vds?tab=repositories"><img align="center" height="90" width"120" src="https://cdn.discordapp.com/attachments/979777186254958625/1066532699742937138/amostra-slideshow.PNG"></a>
-</div><br>
+</div>
 
-<div>
+<div><br>
   <a href="https://github.com/marcelo23vds?tab=repositories"><img align="center" height="90" width"120" src="https://cdn.discordapp.com/attachments/979777186254958625/1066530043364392970/amostra-projetocopa.PNG"></a>
   <a href="https://github.com/marcelo23vds?tab=repositories"><img align="center" height="90" width"120" src="https://cdn.discordapp.com/attachments/979777186254958625/1066530042630385764/amostra-cyberpunk.PNG"></a>
 </div><br>
