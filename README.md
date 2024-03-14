@@ -1,7 +1,4 @@
 console.log('Marcelo Vieira');
-<div>
-  <a href="https://portfolio-zeta-ruby-13.vercel.app/"><img align="center" height="90" width"140" src="https://cdn.discordapp.com/attachments/979777186254958625/1068378726330544128/m23.png" alt="logo_raposa"></a>
-</div><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
