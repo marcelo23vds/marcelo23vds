@@ -2,7 +2,8 @@ console.log('Marcelo Vieira');
 
 Estudante de Desenvolvimento Web. Possuo experiência profissional em Suporte Técnico em TI, atualmente estou estagiando na Prefeitura de Jandira, sou formado Técnico em Redes de Computadores e estou cursando o Técnologo em Análise e Desenvolvimento de Sistemas.
 
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=marcelo23vds&show_icons=true&theme=gotham"> <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo23vds&layout=compact">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=marcelo23vds&show_icons=true&theme=gotham"> 
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo23vds&layout=compact">
 
 ##
   
