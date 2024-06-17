@@ -1,12 +1,11 @@
 console.log('Marcelo Vieira');
 
-💻 Desenvolvedor Web</a>
-💼 Técnico de Suporte em TI na Prefeitura de Jandira/SP</a>
-👨‍🎓 Superior em Análise e Desenvolvimento de Sistemas - UNIP</a>
-👨‍🎓 Técnico em Redes de Computadores - SENAI</a>
+💻 Desenvolvedor Web</br>
+💼 Técnico de Suporte em TI na Prefeitura de Jandira/SP
+👨‍🎓 Superior em Análise e Desenvolvimento de Sistemas - UNIP
+👨‍🎓 Técnico em Redes de Computadores - SENAI
 
-<img width="335em" src="https://github-readme-stats.vercel.app/api?username=marcelo23vds&show_icons=true&theme=gotham&rank_icon=github">
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo23vds&layout=compact&theme=gotham">
+<img width="335em" src="https://github-readme-stats.vercel.app/api?username=marcelo23vds&show_icons=true&theme=gotham&rank_icon=github"> <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo23vds&layout=compact&theme=gotham">
 
 ##
   
