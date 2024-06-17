@@ -5,7 +5,7 @@ console.log('Marcelo Vieira');
 👨‍🎓 Superior em Análise e Desenvolvimento de Sistemas - UNIP</br>
 👨‍🎓 Técnico em Redes de Computadores - SENAI</br>
 
-<img width="335em" src="https://github-readme-stats.vercel.app/api?username=marcelo23vds&show_icons=true&theme=maroongold&rank_icon=github"> <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo23vds&layout=compact&theme=maroongold">
+<img width="335em" src="https://github-readme-stats.vercel.app/api?username=marcelo23vds&show_icons=true&theme=gotham&rank_icon=github"> <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo23vds&layout=compact&theme=gotham">
 
 ##
   
