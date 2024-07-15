@@ -1,6 +1,4 @@
-console.log('Marcelo');
-
-💻 Desenvolvedor Web</br>
+💻 Desenvolvedor Android</br>
 💼 Técnico de Suporte em TI na Prefeitura de Jandira/SP</br>
 👨‍🎓 Superior em Análise e Desenvolvimento de Sistemas - UNIP</br>
 👨‍🎓 Técnico em Redes de Computadores - SENAI</br>
