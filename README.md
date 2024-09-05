@@ -1,4 +1,3 @@
-📱 Desenvolvedor Android - Java / Kotlin</br>
 💼 Técnico de Suporte em TI na Prefeitura de Jandira/SP</br>
 👨‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIP</br>
 👨‍🎓 Técnico em Redes de Computadores - SENAI</br>
