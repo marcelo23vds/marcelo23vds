@@ -1,4 +1,4 @@
-Olá! seja bem vindo ao meu perfil, aqui compartilho meus projetos de Desenvolvimento Web!
+Olá! seja bem vindo(a) ao meu perfil, aqui compartilho meus projetos de Desenvolvimento Web!
 
 <img width="335em" src="https://github-readme-stats.vercel.app/api?username=marcelo23vds&show_icons=true&theme=gotham&rank_icon=github"> <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo23vds&layout=compact&theme=gotham">
 
