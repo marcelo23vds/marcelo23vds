@@ -1,7 +1,3 @@
-Olá! seja bem vindo(a) ao meu perfil!
-
-☕​ Compartilho meus projetos aqui, atualmente estou focado em Java!
-
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo23vds&layout=compact&theme=gotham"> 
 
 ##
