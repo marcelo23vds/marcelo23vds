@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Júnior`**
 
-Me chamo Marcelo Vieira, tenho 23 anos e sou de São Paulo. Atualmente cursando o Técnico em Desenvolvimento de Sistemas no SENAI Jandira, sou formado Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNIP e Técnico em Redes de Computadores também pelo SENAI. Estou sempre buscando aplicar e expandir meus conhecimentos na área de programação e tecnologia em geral.
+Me chamo Marcelo Vieira, tenho 23 anos e sou de São Paulo. Atualmente cursando o Técnico em Desenvolvimento de Sistemas no SENAI Jandira. Tenho familiaridade com programação orientada a objetos, desenvolvimento front-end, versionamento de código, levantamento de requisitos e documentação técnica.
 
 <!-- EM BREVE!!!
 <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
