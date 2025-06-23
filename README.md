@@ -1,4 +1,4 @@
-# 🦅 Marcelo Vieira
+# Marcelo Vieira
 
 **`Desenvolvedor Júnior`**
 
