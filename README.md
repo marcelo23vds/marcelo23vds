@@ -31,7 +31,6 @@ Me chamo Marcelo Vieira, tenho 23 anos e sou de São Paulo. Atualmente cursando 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<!--
 <img 
     align="left" 
     alt="Node.js" 
@@ -40,7 +39,6 @@ Me chamo Marcelo Vieira, tenho 23 anos e sou de São Paulo. Atualmente cursando 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
--->
 <img 
     align="left" 
     alt="HTML"
