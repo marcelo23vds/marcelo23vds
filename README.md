@@ -4,8 +4,8 @@
 
 Me chamo Marcelo Vieira, tenho 23 anos e sou de São Paulo. Atualmente cursando o Técnico em Desenvolvimento de Sistemas no SENAI Jandira. Tenho conhecimento em programação orientada a objetos, desenvolvimento web (fullstack), banco de dados, versionamento de código, levantamento de requisitos e documentação técnica.
 
-🎓 Técnologo em Análise e Desenvolvimento de Sistemas - Universidade Paulista
-🎓 Técnico em Redes de Computadores - SENAI Jandira
+🎓 Técnologo em Análise e Desenvolvimento de Sistemas - Universidade Paulista</a>
+🎓 Técnico em Redes de Computadores - SENAI Jandira</a>
 
 <!-- EM BREVE!!!
 <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
