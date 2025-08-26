@@ -74,6 +74,7 @@ Me chamo Marcelo Vieira, tenho 23 anos e sou de Jandira-SP. Atualmente cursando 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="PostgreSQL" 
@@ -82,6 +83,7 @@ Me chamo Marcelo Vieira, tenho 23 anos e sou de Jandira-SP. Atualmente cursando 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+-->
 <img 
     align="left" 
     alt="Git" 
