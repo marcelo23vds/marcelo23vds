@@ -15,7 +15,7 @@ Me chamo Marcelo Vieira, tenho 23 anos e sou de Jandira-SP. Atualmente cursando 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -89,7 +89,7 @@ Me chamo Marcelo Vieira, tenho 23 anos e sou de Jandira-SP. Atualmente cursando 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Tecnologias que mais utilizo
 
 <img 
       align="left" 
