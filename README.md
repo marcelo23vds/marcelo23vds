@@ -92,12 +92,10 @@ Me chamo Marcelo Vieira, tenho 23 anos e sou de Jandira-SP. Atualmente cursando 
 <br/>
 <br/>
 <br/>
-<!--
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo23vds&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
--->
 </p>
