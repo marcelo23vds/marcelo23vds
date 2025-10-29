@@ -4,11 +4,8 @@
 
 Me chamo Marcelo Vieira, tenho 23 anos e sou de Jandira - SP.
 Atualmente, curso o Técnico em Desenvolvimento de Sistemas no SENAI. Possuo conhecimentos em desenvolvimento web full stack, bancos de dados, versionamento de código, levantamento de requisitos e documentação técnica.
-Além disso, tenho formação técnica e experiência profissional em Redes de Computadores, bem como formação superior tecnologo em Análise e Desenvolvimento de Sistemas.
+Além disso, tenho formação técnica e experiência profissional em Redes de Computadores, e também formação superior tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-<!--
-<a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
--->
 <a href = "mailto:vieiramarcelo.vds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcelovieirasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
@@ -63,16 +60,6 @@ Além disso, tenho formação técnica e experiência profissional em Redes de C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-<!--
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
--->
 <img 
     align="left" 
     alt="Git" 
