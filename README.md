@@ -3,7 +3,7 @@
 **`Desenvolvedor Júnior`**
 
 Me chamo Marcelo Vieira, tenho 23 anos e sou de Jandira - SP.
-Atualmente, curso o Técnico em Desenvolvimento de Sistemas no SENAI. Possuo conhecimentos em desenvolvimento web full stack, bancos de dados, versionamento de código, levantamento de requisitos e documentação técnica.
+Atualmente, curso o Técnico em Desenvolvimento de Sistemas no SENAI. Possuo conhecimento em desenvolvimento web full stack, bancos de dados, versionamento de código, levantamento de requisitos e documentação técnica.
 Além disso, tenho formação técnica e experiência profissional em Redes de Computadores, e também formação superior tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 <a href = "mailto:vieiramarcelo.vds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
