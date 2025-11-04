@@ -1,6 +1,6 @@
 # Marcelo Vieira
 
-**`Desenvolvedor Web`**
+**`Desenvolvedor Web Fullstack`**
 
 Seja bem-vindo ao meu GitHub! Aqui compartilho meus projetos e um pouco da minha jornada como desenvolvedor.
 
