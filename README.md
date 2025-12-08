@@ -57,15 +57,3 @@ Seja bem-vindo ao meu GitHub! Aqui compartilho meus projetos e um pouco da minha
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-
-
-<br/>
-<br/>
-<br/>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo23vds&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
