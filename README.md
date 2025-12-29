@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-👋 Seja bem-vindo ao meu GitHub!
+👋 Seja bem-vindo ao meu GitHub!  
 ⚙️ Aqui compartilho projetos de desenvolvimento web, com foco em backend e APIs REST.
 
 <a href = "mailto:vieiramarcelo.vds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
