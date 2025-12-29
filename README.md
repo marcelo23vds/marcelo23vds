@@ -5,8 +5,6 @@
 👋 Seja bem-vindo ao meu GitHub!  
 ⚙️ Aqui compartilho projetos de desenvolvimento web, com foco em backend e APIs REST.
 
-<a href="https://www.linkedin.com/in/marcelovieirasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 ---
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;"
