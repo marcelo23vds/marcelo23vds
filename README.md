@@ -27,14 +27,6 @@ Seja bem-vindo ao meu GitHub! Aqui compartilho meus projetos e um pouco da minha
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -64,6 +56,14 @@ Seja bem-vindo ao meu GitHub! Aqui compartilho meus projetos e um pouco da minha
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
