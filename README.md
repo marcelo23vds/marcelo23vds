@@ -3,7 +3,7 @@
 **`Desenvolvedor Full Stack`**
 
 👋 Seja bem-vindo ao meu GitHub!  
-⚙️ Aqui compartilho projetos com foco em backend e desenvolvimento de APIs REST.
+⚙️ Aqui compartilho projetos com foco em APIs REST e interfaces de usuário.
 
 ---
 
