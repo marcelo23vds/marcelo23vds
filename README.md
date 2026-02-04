@@ -3,7 +3,8 @@
 **`Desenvolvedor Full Stack`**
 
 👋 Seja bem-vindo ao meu GitHub!  
-⚙️ Aqui compartilho projetos de desenvolvimento de software, com foco em APIs REST e aplicações web.
+⚙️ Aqui compartilho projetos de desenvolvimento de software, com foco em APIs REST e aplicações web.  
+☕ Atualmente concentro meus estudos e projetos em **Java**, com experiência também em **Node.js/JavaScript**. 
 
 ---
 
