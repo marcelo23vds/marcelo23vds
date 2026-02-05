@@ -4,7 +4,7 @@
 
 👋 Seja bem-vindo ao meu GitHub!  
 ☕ Atualmente direciono meus estudos e projetos para **Backend Java**, com foco em APIs REST e aplicações corporativas.  
-⚙️ Este perfil reúne projetos de diferentes fases da minha formação, incluindo Front-end, Back-end e recentemente **Java com Spring Boot**. 
+⚙️ Este perfil reúne projetos de diferentes fases da minha formação, com foco atual em Java com Spring Boot.
 
 ---
 
