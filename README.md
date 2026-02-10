@@ -1,6 +1,6 @@
 # Marcelo Vieira
 
-**`Desenvolvedor Backend Java`**
+**`Desenvolvedor Backend`**
 
 👋 Seja bem-vindo ao meu GitHub!  
 ⚙️ Este perfil reúne projetos de diferentes fases da minha formação, com foco atual em Java com Spring Boot.
