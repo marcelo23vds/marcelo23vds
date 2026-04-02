@@ -3,7 +3,7 @@
 **`Desenvolvedor Fullstack`**
 
 👋 Seja bem-vindo ao meu GitHub!  
-🖥️ Aqui compartilho projetos com foco no desenvolvimento de Aplicações Web.  
+🖥️ Aqui compartilho projetos com foco no desenvolvimento de API REST e Aplicações Web.  
 
 <img align="left" alt="html" title="html" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> 
